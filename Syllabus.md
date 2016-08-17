@@ -50,8 +50,8 @@ We will use the open-source R programming language extensively throughout this c
 Your final grade will be determined based on the following criteria:
 
 <b> Homework (50%): </b>  Homework will be comprised of two parts
-  1. <em> Theoretical problems </em> These will primarily be problems assigned from WMS7.  Students are encouraged, but not required, to submit these homework solutions using R Markdown/LaTeX.  
-  2. <em> Investigative problems </em> In addition to the theoretical problems, there will be regular problems that require the use of R to investigate some aspect of the content covered in class.  <b> Students are required to submit these assignments via GitHub using R Markdown. </b> More details below.  
+  1. <em> Theoretical problems: </em> These will primarily be problems assigned from WMS7.  Students are encouraged, but not required, to submit these homework solutions using R Markdown/LaTeX.  
+  2. <em> Investigative problems: </em> In addition to the theoretical problems, there will be regular problems that require the use of R to investigate some aspect of the content covered in class.  <b> Students are required to submit these assignments via GitHub using R Markdown. </b> More details below.  
 
 
 <b> Midterm exam (25%): </b> The Midterm exam will likely comprise both an in-class and take-home portion, with the in-class involving more theoretical problems and the take-home more computational problems.  
