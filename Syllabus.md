@@ -36,7 +36,7 @@ The required text for this course is Mathematical Statistics with Applications b
  
 ##  Statistical computing
 
-We will use the open-source R programming language extensively throughout this course, both in the course notes and through weekly R-specific assignments.  Some R-related resources are below.  If you have no experience with R (or even if you do), I highly recommend you look at some of the below tutorials. 
+We will use the open-source R programming language extensively throughout this course, both in the course notes and through regular R-specific assignments.  Some R-related resources are below.  If you have no experience with R (or even if you do), I highly recommend you look at some of the below tutorials.  Those who have some experience in R are recommended to jump straight to the tutorial on loops and if/else statements, as this kind of coding logic will be prevalent in this course.  
 
   * <a href=https://cran.r-project.org/> Base R  </a> 
   * <a href=https://www.rstudio.com/home/>  R Studio </a> 
