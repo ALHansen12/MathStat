@@ -65,7 +65,7 @@ Students are required to submit solutions to "Investigative problems" using the 
 1. Create a GitHub account
 2. Create a repository for Stat 450/60 assignments
 2. Add me as a collaborator to this repository
-3. Submit a .Rmd file with solutions to each assignment, as it is assigned (assignments will be posted in this GitHub repository).  
+3. Submit an R Markdown (.Rmd) file with solutions to each assignment, as it is assigned (assignments will be posted in this GitHub repository).  
 
 For more details on creating a GitHub account, repository, and a demonstration of submitting an assignment, watch <a href=https://mediaspace.mnscu.edu/media/GitHub+Tutorial/0_zzd0qgi6> this tutorial video </a>.
 
