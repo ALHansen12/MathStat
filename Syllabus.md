@@ -45,7 +45,7 @@ We will use the open-source R programming language extensively throughout this c
   * <a href=https://cran.r-project.org/> Base R  </a> 
   * <a href=https://www.rstudio.com/home/>  R Studio </a> 
   * <a href=http://tryr.codeschool.com/levels/1/challenges/1>  Interactive introduction to basic R </a> 
-  * <a href=http://scc.stat.ucla.edu/page_attachments/0000/0093/Intermediate_R_2_09S.pdf> Nice powerpoint on loops and if/else statements </a> 
+  * <a href=http://scc.stat.ucla.edu/page_attachments/0000/0093/Intermediate_R_2_09S.pdf> Nice powerpoint on loops and if/else statements </a>...try some of the code yourself!
   * <a href=https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf> ggplot2 cheat sheet </a> (I use this ALL THE TIME) 
   * <a href=https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf> R Markdown cheat sheet </a> 
 
