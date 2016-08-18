@@ -74,7 +74,7 @@ Students are required to submit solutions to "Investigative problems" using the 
 For more details on creating a GitHub account, repository, and a demonstration of submitting an assignment, watch <a href=https://mediaspace.mnscu.edu/media/GitHub+Tutorial/0_zzd0qgi6> this tutorial video </a>.
 
 
-<b>  Note that your GitHub repository is public; implying there's nothing stopping you from copying/pasting each other's solutions.  I encourage you to work and troubleshoot together; however, do NOT copy/paste code!</b>   The midterm and final will contain programming problems that you will be <b> <em>very stuck</em> </b>  on if you are not doing your own work throughout the semester.  
+<b>  Note that your GitHub repository is public; implying there's nothing stopping you from copying/pasting each other's solutions.  I encourage you to work and troubleshoot together; however, ALL CODE YOU SUBMIT AS YOUR OWN SHOULD BE WRITTEN BY YOU!</b>   The midterm and final will contain programming problems that you will be <b> <em>very stuck</em> </b>  on if you are not doing your own work throughout the semester.  
 # Academic dishonesty will result in 0 on all relevant assignments. #
 If in doubt as to whether something is academic dishonesty, ask.  
 
