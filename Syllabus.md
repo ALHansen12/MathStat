@@ -5,6 +5,10 @@
   * MWF: 9-10; 2-3
   * TH: 8:30-9:30; 11-12
 
+#### Prerequisites:
+  * Math 312 (Multivariable calculus)
+  * Math 337 (Probability); concurrent enrollment OK
+  * Eng 111
 
 ##Course summary
 
