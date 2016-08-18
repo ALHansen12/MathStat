@@ -3,7 +3,7 @@
 ### Office:  Gildemeister 124D
 #### Office hours:
   * MWF: 9-10; 2-3
-  * TH: 8:30-9:30; 11-12
+  * TH: 8:30-9:30; 4-5
 
 #### Prerequisites:
   * Math 312 (Multivariable calculus)
