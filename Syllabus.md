@@ -21,6 +21,7 @@ Along the way, students will also become adept at using R to investigate and sol
 The required text for this course is Mathematical Statistics with Applications by Wackerly, Mendenhall, & Scheaffer, 7th edition (WMS7).  Students may share copies of this book, although students planning on continuing to graduate school are encouraged to have their own copy.  
 
 * <a href=https://www.amazon.com/Mathematical-Statistics-Applications-Dennis-Wackerly/dp/0495110817/ref=sr_1_1?ie=UTF8&qid=1471463588&sr=8-1&keywords=mathematical+statistics+wackerly> Amazon link </a> 
+* <a href=http://web.csulb.edu/~okoroste/wackerly.pdf> Kindle version </a> 
 
 
 ##  Course outline 
