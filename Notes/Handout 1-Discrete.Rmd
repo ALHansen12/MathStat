@@ -77,7 +77,7 @@ Some possible different random variables:
 Often if there are a finite number of $y_i$, the pmf can be defined in table format.
 
 
-**Tasks**: Define the pmf's for $Y$ from Example 1, and $Y_1$ and $Y_4$ from Example 2.
+**Tasks**: Define the pmf's for $Y$ from Example 1, and $Y_1$ and $Y_3$ from Example 2.
 
 
 \newpage
@@ -243,30 +243,8 @@ $$ f(x) = f(0) + f'(0) (x) + \frac{1}{2}f''(0) (x)^2 + ... + \frac{1}{k!}f^{(k)}
 
 **Example:** Find the Maclaurin series for $f(x) = e^x$.
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-
-
-**IMPORTANT CONSEQUENCE**:  $e^{anything} = \sum_{k=0}^\infty \frac{anything^k}{k!}$
-
-***
 
 \newpage
 
