@@ -1,0 +1,51 @@
+---
+title: "Stat 450"
+author: "R Assignment 1"
+date: "Due Thursday, September 1 by 5pm on your GitHub repositories"
+output: pdf_document
+---
+
+**Instructions:** The entirety of this assignment must be submitted as an R Markdown file (.Rmd) on your GitHub repository.  Use the .Rmd note handout files and the R Markdown cheat sheet as guidelines.  You are encouraged to save this HW1.Rmd file and fill in the questions with your answers, then submit.  **I should be able to knit your .Rmd file and compile your code myself, so make sure you do some bug checks before submitting!** (I.e., knit the document yourself a couple times and search for errors.)
+
+Consider Example 2 in the notes.  2 dice are rolled, one red and one white.  Let $Y$ be the random variable that denotes the maximum value of the two rolls.  We will use simulation to find the mean and variance of $Y$, and then verify that our simulated results match what we would expect theoretically.
+
+**Theoretical section**
+
+1.  Define the pmf, find $\mu = E(Y)$, $\sigma^2 = Var(Y)$, and $\sigma = SD(Y)$.  Show all your work.
+2.  Use `ggplot()` to plot the pmf; see Handout 1 notes for an example.
+3.  Consider the random variable $Z=2Y+1$.  What is $E(Z)$ and $Var(Z)$?  Show all work.
+
+**Simulation section**  
+
+
+3.  Write a function called `one.Y` that simulates rolling two dice and returns the maximum roll.  Try the function out a few times and include the results of these test-runs in your R Markdown output. I have written some code below to get you started; each line of "pseudo-code" should be repaced with actual code:
+
+<!--NOTE: You should probably change the below code to eval=TRUE when you submit, else your function will not be compiled and your pdf/word/HTML file will not reproduce any output!  -->
+
+```{r,eval=FALSE}
+one.Y <- function() {
+  #Simulate a single roll of the red die using the sample() function
+  #Simulate a single roll of the white die using the sample() function
+  #Find the maximum of the two rolls using the max() function
+  #return the maximum using the return() function
+  }
+##Trying it out; each run of this should yield a simulated maximum:
+one.Y()
+one.Y()
+```
+
+Each of the following can be answered with 1-2 lines of R code (and corresponding output, of course)
+
+4.  Use `replicate()` to simulate the results of 1000 pairs of rolls.  These are 1000 realizations of the random variable $Y$. Save the 1000 realizations in an object called `many.Y`.
+5.  Use `ggplot()` to create the empirical (i.e., observed) pmf of your simulation.  See Handout 1 for example R code.  How does it compare with your theoretical pmf?
+6.  What is the mean of the 1000 realizations?
+7.  What is the variance of the 1000 realizations?
+8.  What is the standard deviation of the 1000 realizations?
+9.  Create a new object called `many.Z` that creates 1000 realizations of $Z$.
+10.  What is the mean of $Z$?
+11.  What is the variance of $Z$?
+12.  Note that your simulated results should be similar to the theoretical quantities; if they aren't, re-check your R code!  What is the reason for any differences?
+
+
+
+
