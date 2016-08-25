@@ -24,8 +24,9 @@ Consider Example 2 in the notes.  2 dice are rolled, one red and one white.  Let
 
 ```{r,eval=FALSE}
 one.Y <- function() {
-  #Simulate a single roll of the red die using the sample() function
-  #Simulate a single roll of the white die using the sample() function
+  #Create a vector that contains the sample space for a single roll
+  #Simulate a single roll of the red die by sampling from the sample space; use the sample() function
+  #Simulate a single roll of the white die by sampling from the sample space; use the sample() function
   #Find the maximum of the two rolls using the max() function
   #return the maximum using the return() function
   }
