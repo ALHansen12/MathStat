@@ -42,9 +42,9 @@ Each of the following can be answered with 1-2 lines of R code (and correspondin
 7.  What is the variance of the 1000 realizations?
 8.  What is the standard deviation of the 1000 realizations?
 9.  Create a new object called `many.Z` that creates 1000 realizations of $Z$.
-10.  What is the mean of $Z$?
-11.  What is the variance of $Z$?
-12.  Note that your simulated results should be similar to the theoretical quantities; if they aren't, re-check your R code!  What is the reason for any differences?
+10.  What is the mean of `many.Z`?
+11.  What is the variance of `many.Z`?
+12.  Note that your simulated results should be similar to the theoretical quantities from Question 1; if they aren't, re-check your R code!  What is the reason for any differences?
 
 
 
