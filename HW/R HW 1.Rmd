@@ -12,13 +12,13 @@ Consider Example 2 in the notes.  2 dice are rolled, one red and one white.  Let
 **Theoretical section**
 
 1. (3pts) Define the pmf, find $\mu = E(Y)$, $\sigma^2 = Var(Y)$, and $\sigma = SD(Y)$.  Show all your work.
-2.(2pts)  Use `ggplot()` to plot the pmf; see Handout 1 notes for an example.
-3.(2pts)  Consider the random variable $Z=2Y+1$.  What is $E(Z)$ and $Var(Z)$?  Show all work.
+2. (2pts)  Use `ggplot()` to plot the pmf; see Handout 1 notes for an example.
+3. (2pts)  Consider the random variable $Z=2Y+1$.  What is $E(Z)$ and $Var(Z)$?  Show all work. 
 
 **Simulation section**  
 
 
-3.  Write a function called `one.Y` that simulates rolling two dice and returns the maximum roll.  Try the function out a few times and include the results of these test-runs in your R Markdown output. I have written some code below to get you started; each line of "pseudo-code" should be repaced with actual code:
+Write a function called `one.Y` that simulates rolling two dice and returns the maximum roll.  Try the function out a few times and include the results of these test-runs in your R Markdown output. I have written some code below to get you started; each line of "pseudo-code" should be repaced with actual code:
 
 <!--NOTE: You should probably change the below code to eval=TRUE when you submit, else your function will not be compiled and your pdf/word/HTML file will not reproduce any output!  -->
 
@@ -49,15 +49,6 @@ Each of the following can be answered with 1-2 lines of R code (and correspondin
 10. (1pt)  What is the mean of $Z$?
 11. (1pt)  What is the variance of $Z$?
 12. (1pt) Note that your simulated results should be similar to the theoretical quantities; if they aren't, re-check your R code!  What is the reason for any differences?
-4.  (1pt) Use `replicate()` to simulate the results of 1000 pairs of rolls.  These are 1000 realizations of the random variable $Y$. Save the 1000 realizations in an object called `many.Y`.
-5. (1pt)  Use `ggplot()` to create the empirical (i.e., observed) pmf of your simulation.  See Handout 1 for example R code.  How does it compare with your theoretical pmf?
-6. (1pt)  What is the mean of the 1000 realizations?
-7. (1pt)  What is the variance of the 1000 realizations?
-8. (1pt)  What is the standard deviation of the 1000 realizations?
-9.  (1pt) Create a new object called `many.Z` that creates 1000 realizations of $Z$.
-10. (1pt)  What is the mean of `many.Z`?
-11. (1pt)  What is the variance of `many.Z`?
-12. (1pt)  Note that your simulated results should be similar to the theoretical quantities from Question 1; if they aren't, re-check your R code!  What is the reason for any differences?
 
 
 
