@@ -40,7 +40,7 @@ Each of the following can be answered with 1-2 lines of R code (and correspondin
 4. (2pts) Use `replicate()` to simulate the results of 1000 pairs of rolls.  These are 1000 realizations of the random variable $Y$. Save the 1000 realizations in an object called `many.Y`.
 5.  (2pts) Use `ggplot()` to create the empirical (i.e., observed) pmf of your simulation.  See Handout 1 for example R code.  How does it compare with your theoretical pmf?
 6. (1pt)  What is the mean of the 1000 realizations?
-7.(1pt)  What is the variance of the 1000 realizations?
+7. (1pt)  What is the variance of the 1000 realizations?
 8.  (1pt) What is the standard deviation of the 1000 realizations?
 9. (1pt)  Create a new object called `many.Z` that creates 1000 realizations of $Z$.
 10. (1pt)  What is the mean of $Z$?
