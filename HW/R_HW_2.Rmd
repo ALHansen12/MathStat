@@ -20,7 +20,7 @@ one.world.series <- function(p)
   total.games <- number.A.wins + number.B.wins
   while(series.over == 0 ) {
     #Simulate a single game, then update number.A.wins, number.B.wins, 
-    #total.wins, series.over, and ngames, as appropriate.
+    #series.over, and total.games, as appropriate.
   }
   return(ngames)
 }
