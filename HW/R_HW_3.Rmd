@@ -5,7 +5,7 @@ date: "Fall 2016"
 output: pdf_document
 ---
 
-**R code of solutions to be submitted via D2L dropbox by 5pm on Friday, September 23.  You do not need to submit a .Rmd file; just the R code.  See the HW 1 key for an example of a suitable submission.**
+**R code of solutions to be submitted via D2L dropbox by 5pm on Wednesday, September 28.  You do not need to submit a .Rmd file; just the R code.  See the HW 1 key for an example of a suitable submission.**
 
 As discussed in class, the $UNIF(0,1)$ distribution is very important for simulating continuous random variables with any other distribution, as long as the CDF has closed form.  
 
@@ -18,7 +18,7 @@ $$
 a. (3pts) Graph this pdf in R for $a = 2$ and $b=6$.
 b. (4pts) Write a function that takes as input $\{y,a,b\}$ and returns $F(y)$.  Use this function to graph the CDF, $F(y)$, in R for $a=2$ and $b=6$.  (Hint: to find the CDF, consider the change of variable $u = \frac{y-a}{b-a}$, then the change of variable $t = \sqrt{u}$, then consider inverse trigonmetric functions.  You do not need to show your work for this integral, but you do need to write code to generate $F(y)$ and plot this CDF over the relevant range of $y$.)   
 c. (1pt)  Use your function to find $P(3 \leq Y\leq 5)$ for $a=2$ and $b=6$.
-d. (2pts) Based on your plot from b, what appears to be the median of $Y$?  Find the exact value of the median using your CDF function and `uniroot()`.
+d. (2pts) Based on your plot from b, what appears to be the median of $Y$?  Find the exact value of the median by modifying your CDF function and using `uniroot()`.
 e. (3pts) Now simulate 1000 realizations of $Y$ by simulating 1000 realizations of $U\sim UNIF(0,1)$ and letting $Y= F^{-1}(u)$.  Plot a histogram of these random realizations; how does its shape compare with the graph of your pdf from part a? 
 f. (2pts)  Find $\hat P(3\leq Y\leq 5)$; the *empirical* (i.e., observed) proportion of your simulated data that is $\in [3,5]$.  Is it similar to your answer from c?
 g. (2pts) Find the median of your 1000 realizations.  Is it similar to your answer from d?
