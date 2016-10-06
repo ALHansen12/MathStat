@@ -1,7 +1,7 @@
 
 ###Chapter 5 homework
 
-This homework is due <b> Wednesday, October 19 </b>.  Complete the following problems:
+This homework is due <b> Wednesday, October 19.</b>  Complete the following problems:
 
 <ul> 
  <li> 5.2, 5.7, 5.9, 5.10, 5.11, 5.15, 5.17 </li> 
