@@ -11,5 +11,5 @@ This homework is due <b> Wednesday, October 19 </b>.  Complete the following pro
  <li> 5.93, 5.94, 5.98, 5.100</li>
  <li> 5.106 (typo here; it refers to 5.76 when it means 5.77), 5.113, 5.114 (for 113 and 114, use Tchebyshev's Theorem as defined on Page 207) </li>
  <li> 5.123, 5.124, 5.136, 5.138, 5.141, 5.143</li> 
- <li>5.152, 5.153, 5.154 </li>
+ <li>5.152, 5.153, 5.154, 5.156, 5.157, 5.161 </li>
 </ul>
