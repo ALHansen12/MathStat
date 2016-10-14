@@ -1,7 +1,7 @@
 
 ###Chapter 5 homework
 
-This homework is due <b> Wednesday, October 19.</b>  Complete the following problems.  <b> For all problems, make sure you specify the support on any marginals/conditionals.  </b>  E.g., don't just say "<em> f(y) = e^-y </em> "; also give the limits on <em> y </em> such that f(y) > 0. 
+This homework is due <b> Friday, October 21.</b>  Complete the following problems.  <b> For all problems, make sure you specify the support on any marginals/conditionals.  </b>  E.g., don't just say "<em> f(y) = e^-y </em> "; also give the limits on <em> y </em> such that f(y) > 0. 
 
 <ul> 
  <li> 5.2, 5.7, 5.9, 5.10, 5.11, 5.15, 5.17 </li> 
