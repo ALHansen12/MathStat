@@ -45,10 +45,11 @@ We will prove facts 1-4 when the sample (or samples, in the case of #4) is drawn
 
 Preliminaries:
 
-A.  If $Y\sim N(\mu,\sigma^2)$, then $Z = \frac{Y-\mu}{\sigma} \sim N(0,1)$
+A.  If $Y\sim N(\mu,\sigma^2)$, then $Z = \frac{Y-\mu}{\sigma} \sim N(0,1)$ (Will prove.)
 B.  If $Z \sim N(0,1)$, then $U = Z^2 \sim \chi^2_1\equiv GAM\left(\alpha=\frac{1}{2},\beta=2\right)$ (Proved using pdf method in Chapter 6). 
+C.  If $Z_1,Z_2,...,Z_n$ are i.i.d. $\sim \chi^2_1$, then $\sum_{i=1}^n Z_i \sim \chi^2_n$.  (Will prove.)
 
-Proof of A, using the fact that $M_{aY+b} = e^{tb}M_Y(at)$:
+
 
 \newpage
 (Proof of 2, continued)
